@@ -1,0 +1,7 @@
+"Date","Block height","Transaction ID","Confirmations","Input Count","Output Count","Amount (BTC)","Amount Fiat (USD) at transaction timestamp","BTC to USD rate at transaction timestamp","Fees (BTC)","Size (kB)","Input List (BTC)","Output List (BTC)"
+"Jan 15, 2020 07:49:53 UTC+06:00","612875","2166a7200fed1b2e5657689e5b7765d0afa0e619e69f0b702fd1b57b4d83f074","579","1","2","-0.01341569","-116.16","8658.15","0.00000573","0.226","1DNiypr5h3wM2iJavP3NEU19hkRDjWZ31s (-0.01341569)","1FbNZmHgqzarxHhrYXU8DNrYdJy7tqm5pd (+0.00203394)
+32oh9UHjCkAhLn8t2cvnnrNjJUmbfAGPac(+0.01137602)"
+"Jan 15, 2020 07:29:40 UTC+06:00","612873","ceeafa142d0a195d61dca642a269e8d479d11046b6dceab1e89e7dfefe90f496","581","1","2","-0.00192739","-16.68","8656.5","0.00000567","0.223","1DNiypr5h3wM2iJavP3NEU19hkRDjWZ31s (-0.01534308)","37K1LgAUx7NYARL8xe2Q8TWGf59E9eauTj (+0.00192172)
+32oh9UHjCkAhLn8t2cvnnrNjJUmbfAGPac(+0.01341569)"
+"Jan 15, 2020 07:29:40 UTC+06:00","612873","a59d8b24b8ebf8ef04ba9edb3fb4035eb0630ce00043b69a73e32421f3b02a42","581","1","2","0.01534308","132.82","8656.5","0.00000573","0.225","174JjSZouKFqkS6kPg7g3ZBa6DsGvWFEd7 (-0.0866723)","1DNiypr5h3wM2iJavP3NEU19hkRDjWZ31s (+0.01534308)
+1NJ3z65yJxodMnffuS47sjqUvjHpC2m78C (+0.07132349)"
